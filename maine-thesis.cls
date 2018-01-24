@@ -152,8 +152,8 @@
 \def\@fifthreader{}
 \def\@bibfiles{}
 \def\@bibtitle{REFERENCES}
-\def\@type{DISSERTATION}
-\def\@Type{Dissertation}
+\def\@type{THESIS}
+\def\@Type{Thesis}
 \def\@NumParts{1}
 \def\@FirstLength{0}
 \def\@FirstListStart{}

@@ -1,0 +1,21 @@
+
+\save@tocdepth \setcounter {tocdepth}{0}
+\contentsline {chapter}{LIST OF TABLES}{iii}{chapter*.2}
+\contentsline {chapter}{LIST OF FIGURES}{iv}{chapter*.3}
+\contentsline {chapter}{Front Matter Chapter}{v}{chapter*.3}
+\pagebreak [3]
+\vskip 2.25em plus\p@ \relax \parindent \z@ \rightskip 1.4emChapter
+\save@tocdepth \setcounter {tocdepth}{3}
+\pagebreak [3]
+\contentsline {chapter}{\numberline {1.} \MakeUppercase {Introduction}}{1}{chapter.1}
+\addvspace {6\p@ }
+\pagebreak [3]
+\contentsline {chapter}{\numberline {2.} \MakeUppercase {Methods}}{2}{chapter.2}
+\addvspace {6\p@ }
+\contentsline {chapter}{REFERENCES}{5}{figure.2.1}
+\renewcommand *\l@chapter {\@dottedtocline {0}{0pt}{7.5em}}
+\save@tocdepth \setcounter {tocdepth}{0}
+\contentsline {chapter}{APPENDIX A -- \MakeUppercase {...}}{6}{appendix.A}
+\addvspace {6\p@ }
+\nopagebreak 
+\contentsline {chapter}{BIOGRAPHY OF THE AUTHOR}{7}{appendix*.5}
