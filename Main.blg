@@ -7,48 +7,46 @@ A level-1 auxiliary file: Ch2.aux
 The style file: agufull08.bst
 A level-1 auxiliary file: AppA.aux
 A level-1 auxiliary file: Biography.aux
-I found no \citation commands---while reading file Main.aux
 Database file #1: skeleton/MASTERS.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 0 entries,
+You've used 1 entry,
             3076 wiz_defined-function locations,
-            1072 strings with 9360 characters,
-and the built_in function-call counts, 33 in all, are:
-= -- 0
-> -- 0
+            1080 strings with 9519 characters,
+and the built_in function-call counts, 1254 in all, are:
+= -- 155
+> -- 29
 < -- 0
-+ -- 0
-- -- 1
-* -- 2
-:= -- 10
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 1
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
++ -- 15
+- -- 9
+* -- 74
+:= -- 112
+add.period$ -- 1
+call.type$ -- 1
+change.case$ -- 4
+chr.to.int$ -- 2
+cite$ -- 1
+duplicate$ -- 141
+empty$ -- 64
+format.name$ -- 11
+if$ -- 245
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 0
-newline$ -- 7
-num.names$ -- 0
-pop$ -- 0
+missing$ -- 10
+newline$ -- 10
+num.names$ -- 4
+pop$ -- 35
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 3
 quote$ -- 0
-skip$ -- 1
+skip$ -- 98
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 64
+swap$ -- 130
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 9
 warning$ -- 0
-while$ -- 0
+while$ -- 6
 width$ -- 0
-write$ -- 6
-(There was 1 error message)
+write$ -- 18

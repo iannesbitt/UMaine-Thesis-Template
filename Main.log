@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.15)  25 JAN 2018 12:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.15)  25 JAN 2018 14:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -715,11 +715,7 @@ LaTeX Font Info:    Try loading font information for T1+cmtt on input line 64.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [3 <./babydoingpullups.jpg>]) [4] (./Main.bbl
-
-Package natbib Warning: Empty `thebibliography' environment on input line 8.
-
-) [5
+) [3 <./babydoingpullups.jpg>]) [4] (./Main.bbl) [5
 
 
 
@@ -751,30 +747,31 @@ Package rerunfilecheck Info: File `Main.out' has not changed.
 (rerunfilecheck)             Checksum: 816AA0E4FEE1FC11E0085C4C942E0F6E;409.
  ) 
 Here is how much of TeX's memory you used:
- 9768 strings out of 494953
- 142513 string characters out of 6180977
- 254653 words of memory out of 5000000
- 12831 multiletter control sequences out of 15000+600000
- 15128 words of font info for 48 fonts, out of 8000000 for 9000
+ 9774 strings out of 494953
+ 142608 string characters out of 6180977
+ 254721 words of memory out of 5000000
+ 12835 multiletter control sequences out of 15000+600000
+ 15812 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  36i,13n,40p,878b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/iannesbitt/texmf/fonts/pk/ljfour/jknappen/ec/eccc1200.600pk> </home/i
-annesbitt/texmf/fonts/pk/ljfour/jknappen/ec/ectt1200.600pk> </home/iannesbitt/t
-exmf/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/iannesbitt/texmf/fonts/
-pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/iannesbitt/texmf/fonts/pk/ljfour/j
-knappen/ec/ecrm1200.600pk> </home/iannesbitt/texmf/fonts/pk/ljfour/jknappen/ec/
-ecbx0800.600pk> </home/iannesbitt/texmf/fonts/pk/ljfour/jknappen/ec/ecbx1200.60
-0pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Main.pdf (13 pages, 160277 bytes).
+ </home/iannesbitt/texmf/fonts/pk/ljfour/jknappen/ec/ecti1200.600pk> </home/i
+annesbitt/texmf/fonts/pk/ljfour/jknappen/ec/eccc1200.600pk> </home/iannesbitt/t
+exmf/fonts/pk/ljfour/jknappen/ec/ectt1200.600pk> </home/iannesbitt/texmf/fonts/
+pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/iannesbitt/texmf/fonts/pk/ljfour/j
+knappen/ec/ecrm0800.600pk> </home/iannesbitt/texmf/fonts/pk/ljfour/jknappen/ec/
+ecrm1200.600pk> </home/iannesbitt/texmf/fonts/pk/ljfour/jknappen/ec/ecbx0800.60
+0pk> </home/iannesbitt/texmf/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy8.pfb>
+Output written on Main.pdf (13 pages, 164900 bytes).
 PDF statistics:
- 375 PDF objects out of 1000 (max. 8388607)
- 156 compressed objects within 2 object streams
- 25 named destinations out of 1000 (max. 500000)
+ 393 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
+ 26 named destinations out of 1000 (max. 500000)
  70 words of extra memory for PDF output out of 10000 (max. 10000000)
 
